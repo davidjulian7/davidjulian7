@@ -21,7 +21,7 @@
 <p align="center">
 	<a href="https://github.com/davidjulian7"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/DavidVantasse10?link=twitter.com%2Fdavidvantasse10">
-	<a href="https://www.instagram.com/ltdvdvtssl/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/ltdpapi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
